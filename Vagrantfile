@@ -28,4 +28,3 @@ Vagrant.configure("2") do |config|
     config.ssh.username = 'panda'
   end
 end
-

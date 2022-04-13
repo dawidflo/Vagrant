@@ -2,10 +2,10 @@
 - name:
   hosts:  all
   become: true
-  vars:
-  docker_users:
-    - panda
-    - vagrant 
+#  vars:
+#  docker_users:
+#    - panda
+#    - vagrant 
   roles: 
     - user
     - packages

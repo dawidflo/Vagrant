@@ -7,4 +7,3 @@ roles:
     version: 0.0.5
   - name: diodonfrost.terraform
     version: 1.6.1
-
