@@ -1,0 +1,11 @@
+---
+- name:
+  hosts:  all
+  become: true 
+  roles: 
+    - packages
+    - user
+    - geerlingguy.docker_arm
+    - christiangda.awscli
+    - christiangda.awscli_configure
+    - diodonfrost.terraform
