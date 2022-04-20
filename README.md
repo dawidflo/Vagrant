@@ -11,9 +11,9 @@
 
 [Vagrant docs](https://www.vagrantup.com/docs/cli)
 ### Most common command
-*`vagrant up`
-*`vagrant status`
-*`vagrant halt`
-*`vagrant provisioning`
-*`vagrant destroy`
-*`vagrant ssh-conf`
+* `vagrant up`
+* `vagrant status`
+* `vagrant halt`
+* `vagrant provisioning`
+* `vagrant destroy`
+* `vagrant ssh-conf`
